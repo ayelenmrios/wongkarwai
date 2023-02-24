@@ -1,0 +1,17 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    font-family: 'Abril Fatface', cursive !important;
+}
+/* Menu */
+nav{
+    text-align: left;
+}
+li{
+    list-style-type: none;
+    display: block;
+}
+a{
+    text-decoration: none;
+}
